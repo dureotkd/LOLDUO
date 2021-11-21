@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});Object.defineProperty(exports,"defaultTheme",{enumerable:true,get:function get(){return _defaultTheme.defaultTheme;}});var _defaultTheme=require("./defaultTheme");
+//# sourceMappingURL=index.js.map
