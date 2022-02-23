@@ -32,8 +32,8 @@ const regIp = ip.address();
 
 const db = mysql.createPool({
   host: "localhost",
-  user: "dureotkd",
-  password: "slsksh33",
+  user: "",
+  password: "",
   database: "lolduo",
 });
 
